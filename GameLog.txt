@@ -1,0 +1,18 @@
+1714670746 - NEW GAME
+Time Elapsed: 2.00156
+Final Size: 6
+Outcome: LOSE
+
+
+1714943170 - NEW GAME
+Time Elapsed: 13.4087
+Final Size: 10
+Outcome: LOSE
+
+
+1714959255 - NEW GAME
+Time Elapsed: 31.7172
+Final Size: 14
+Outcome: LOSE
+
+
